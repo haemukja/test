@@ -8,6 +8,9 @@ public class Test {
 
 		System.out.println("1111");
 		System.out.println("i'm member");
+		System.out.println("abcd");
+		System.out.println("aaaa");
+		System.out.println("bbbb");
 
 
 	}
