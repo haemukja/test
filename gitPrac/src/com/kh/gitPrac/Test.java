@@ -19,6 +19,8 @@ public class Test {
 		
 		System.out.println("i'm branch dev1");
 
+		System.out.println("i'm branch dev2");
+
 	}
 
 }
